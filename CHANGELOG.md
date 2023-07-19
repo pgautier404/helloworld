@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.3.1](https://github.com/pgautier404/helloworld/compare/v0.3.0...v0.3.1) (2023-07-19)
+
+
+### Bug Fixes
+
+* more tweaks and fixes ([#18](https://github.com/pgautier404/helloworld/issues/18)) ([6b936bc](https://github.com/pgautier404/helloworld/commit/6b936bcaa364393a62a26cb9fbdf37134742e35b))
+
+
+### Miscellaneous
+
+* still choring ([#20](https://github.com/pgautier404/helloworld/issues/20)) ([8f6b402](https://github.com/pgautier404/helloworld/commit/8f6b40215ada90ff1cc79d90b83938942a5444d9))
+
 ## [0.3.0](https://github.com/pgautier404/helloworld/compare/v0.2.1...v0.3.0) (2023-07-19)
 
 
