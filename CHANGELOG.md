@@ -1,5 +1,25 @@
 # Changelog
 
+## [0.3.0](https://github.com/pgautier404/helloworld/compare/v0.2.1...v0.3.0) (2023-07-19)
+
+
+### Features
+
+* trying to get the version back out ([#11](https://github.com/pgautier404/helloworld/issues/11)) ([f592964](https://github.com/pgautier404/helloworld/commit/f59296429ee2ae63a08dffe590681a52480cbe53))
+* trying to get the version back out ([#12](https://github.com/pgautier404/helloworld/issues/12)) ([c667ae0](https://github.com/pgautier404/helloworld/commit/c667ae0fa78f7409ce4cce612033e299fc3b42d8))
+
+
+### Bug Fixes
+
+* fixing ([#17](https://github.com/pgautier404/helloworld/issues/17)) ([97fd78e](https://github.com/pgautier404/helloworld/commit/97fd78eae9b3fca02cb36915a4e53817a970406c))
+* fixing, um, stuff ([#15](https://github.com/pgautier404/helloworld/issues/15)) ([3f1e148](https://github.com/pgautier404/helloworld/commit/3f1e1481bd0d9f3429c92735b732e240f75f0bd1))
+
+
+### Miscellaneous
+
+* bump ([#13](https://github.com/pgautier404/helloworld/issues/13)) ([c7eb3e7](https://github.com/pgautier404/helloworld/commit/c7eb3e77ef817441024ef80b87c31f13a63d866e))
+* mmmhmmm ([#16](https://github.com/pgautier404/helloworld/issues/16)) ([c436841](https://github.com/pgautier404/helloworld/commit/c436841f9e4bf848ae0e380f488fd0314aa77fd6))
+
 ## [0.2.1](https://github.com/pgautier404/helloworld/compare/v0.2.0...v0.2.1) (2023-07-19)
 
 
