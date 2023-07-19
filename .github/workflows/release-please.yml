@@ -12,8 +12,6 @@ name: release-please
 jobs:
   release-please:
     runs-on: ubuntu-latest
-    outputs:
-      version: ${{ steps.release.outputs.tag_name }}
     steps:
       - uses: google-github-actions/release-please-action@v3
         id: release
@@ -27,6 +25,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: chat
+        if: ${{ steps.release.outputs.release_created }}
         run: |
           echo "And the tag name please:"
-          echo ${{ steps.release.outputs.tag_name }}
+          echo ${{ steps.release.outputs.major }}
