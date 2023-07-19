@@ -27,6 +27,7 @@ jobs:
   lets-chat-about-it:
     runs-on: ubuntu-latest
     steps:
-      run: |
-        echo "And the tag name please:"
-        echo ${{ steps.release.outputs.tag_name }}
+      - name: chat
+      - run: |
+          echo "And the tag name please:"
+          echo ${{ steps.release.outputs.tag_name }}
