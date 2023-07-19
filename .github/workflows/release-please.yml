@@ -28,6 +28,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: chat
-      - run: |
+        run: |
           echo "And the tag name please:"
           echo ${{ steps.release.outputs.tag_name }}
