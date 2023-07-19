@@ -5,5 +5,4 @@ on:
 
 jobs:
   test:
-    needs: [readme]
     uses: ./.github/workflows/test.yml
