@@ -25,7 +25,7 @@ jobs:
 
       - name: Output release
         id: release
-        run: echo "::set-output name=release::${{ steps.releaseplease.outputs.tag_name }}"
+        run: echo "::set-output name=release::${{ steps.release-please.outputs.tag_name }}"
 
   lets-chat-about-it:
     runs-on: ubuntu-latest
