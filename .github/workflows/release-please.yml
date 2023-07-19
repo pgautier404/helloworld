@@ -12,20 +12,26 @@ name: release-please
 jobs:
   release-please:
     runs-on: ubuntu-latest
+    outputs:
+      version: ${{ steps.release.outputs.release }}
     steps:
       - uses: google-github-actions/release-please-action@v3
-        id: release
         with:
+          id: releaseplease
           release-type: simple
           package-name: release-please-action
           bump-minor-pre-major: true
           changelog-types: '[{"type":"feat","section":"Features","hidden":false},{"type":"fix","section":"Bug Fixes","hidden":false},{"type":"chore","section":"Miscellaneous","hidden":false}]'
 
+      - name: Output release
+        id: release
+        run: echo "::set-output name=release::${{ steps.releaseplease.outputs.tag_name }}"
+
   lets-chat-about-it:
     runs-on: ubuntu-latest
+    needs: release
     steps:
       - name: chat
-        if: ${{ steps.release.outputs.release_created }}
         run: |
           echo "And the tag name please:"
-          echo ${{ steps.release.outputs.major }}
+          echo ${{ needs.release.outputs.release }}
