@@ -10,9 +10,6 @@ permissions:
 name: release-please
 
 jobs:
-#  test:
-#    uses: ./.github/workflows/test.yml
-
   release-please:
     runs-on: ubuntu-latest
     steps:
