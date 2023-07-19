@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.1](https://github.com/pgautier404/helloworld/compare/v0.2.0...v0.2.1) (2023-07-19)
+
+
+### Miscellaneous
+
+* Empty-Commit ([#9](https://github.com/pgautier404/helloworld/issues/9)) ([c558c85](https://github.com/pgautier404/helloworld/commit/c558c858519e92cbce37467ffcb5fcce8b0013b9))
+
 ## [0.2.0](https://github.com/pgautier404/helloworld/compare/v0.1.0...v0.2.0) (2023-07-19)
 
 
