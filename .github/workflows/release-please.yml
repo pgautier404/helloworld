@@ -30,5 +30,7 @@ jobs:
             version.txt
 
       - name: Publish
-        run: cat version.txt
+        run: |
+          cat version.txt
+          echo ${{ steps.release.outputs.tag_name }}
         if: ${{ steps.release.outputs.release_created }}
