@@ -1,4 +1,4 @@
 #!/bin/sh
 
 echo "Hi"
-exit 1
+exit 0
