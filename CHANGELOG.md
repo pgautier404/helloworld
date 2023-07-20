@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.6.2](https://github.com/pgautier404/helloworld/compare/v0.6.1...v0.6.2) (2023-07-20)
+
+
+### Miscellaneous
+
+* a chore is a chore is a chore ([#38](https://github.com/pgautier404/helloworld/issues/38)) ([1677f82](https://github.com/pgautier404/helloworld/commit/1677f826c777c8de0db1d7236a1c516fe883aa5b))
+
 ## [0.6.1](https://github.com/pgautier404/helloworld/compare/v0.6.0...v0.6.1) (2023-07-20)
 
 
