@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.7.1](https://github.com/pgautier404/helloworld/compare/v0.7.0...v0.7.1) (2023-07-20)
+
+
+### Bug Fixes
+
+* fix test ([#44](https://github.com/pgautier404/helloworld/issues/44)) ([e082f61](https://github.com/pgautier404/helloworld/commit/e082f61552e941fb1c24748314fa7ee376ed4f27))
+
+
+### Miscellaneous
+
+* break test ([#43](https://github.com/pgautier404/helloworld/issues/43)) ([8790a51](https://github.com/pgautier404/helloworld/commit/8790a5164958ceb0ac9d8311a8c8dc2f0d27dcf0))
+
 ## [0.7.0](https://github.com/pgautier404/helloworld/compare/v0.6.2...v0.7.0) (2023-07-20)
 
 
