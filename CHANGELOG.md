@@ -1,5 +1,23 @@
 # Changelog
 
+## [0.4.0](https://github.com/pgautier404/helloworld/compare/v0.3.1...v0.4.0) (2023-07-20)
+
+
+### Features
+
+* add version file ([#25](https://github.com/pgautier404/helloworld/issues/25)) ([9250cc7](https://github.com/pgautier404/helloworld/commit/9250cc782a16cf88903d80115186dda462f13832))
+
+
+### Bug Fixes
+
+* . ([#24](https://github.com/pgautier404/helloworld/issues/24)) ([aa8cc62](https://github.com/pgautier404/helloworld/commit/aa8cc62718e9a818e114d9db4a81f3c6b770cbdf))
+* please pretty please ([#21](https://github.com/pgautier404/helloworld/issues/21)) ([c60fc99](https://github.com/pgautier404/helloworld/commit/c60fc997b5769e3bcd81c0f6d9781ff04f309937))
+
+
+### Miscellaneous
+
+* . ([#22](https://github.com/pgautier404/helloworld/issues/22)) ([8fb6eda](https://github.com/pgautier404/helloworld/commit/8fb6edac5b92193dd37eac6b90bf4dca219e3a1f))
+
 ## [0.3.1](https://github.com/pgautier404/helloworld/compare/v0.3.0...v0.3.1) (2023-07-19)
 
 
