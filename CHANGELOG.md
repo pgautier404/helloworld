@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.5.0](https://github.com/pgautier404/helloworld/compare/v0.4.0...v0.5.0) (2023-07-20)
+
+
+### Features
+
+* try this again ([#26](https://github.com/pgautier404/helloworld/issues/26)) ([b530e9b](https://github.com/pgautier404/helloworld/commit/b530e9b9c83aefb625679b692677e8ff834579c5))
+
+
+### Bug Fixes
+
+* fix secret name ([#27](https://github.com/pgautier404/helloworld/issues/27)) ([e90360f](https://github.com/pgautier404/helloworld/commit/e90360fca2e2eca2e29e8fb6c43eb5a788d88325))
+
 ## [0.4.0](https://github.com/pgautier404/helloworld/compare/v0.3.1...v0.4.0) (2023-07-20)
 
 
