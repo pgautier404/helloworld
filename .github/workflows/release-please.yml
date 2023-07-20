@@ -7,17 +7,28 @@ permissions:
   contents: write
   pull-requests: write
 
-name: release-please
-
 jobs:
-  release-please:
+  main:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Run test
+        run: ./test.sh
+
       - uses: google-github-actions/release-please-action@v3
+        name: Release Please
+        id: release
         with:
+          token: ${{ secrets.GITHUB_ACTION }}
           release-type: simple
-          package-name: release-please-action
+          package-name: helloworld
           bump-minor-pre-major: true
           changelog-types: '[{"type":"feat","section":"Features","hidden":false},{"type":"fix","section":"Bug Fixes","hidden":false},{"type":"chore","section":"Miscellaneous","hidden":false}]'
           extra-files: |
             version.txt
+
+      - name: Publish
+        run: cat version.txt
+        if: ${{ steps.release.outputs.release_created }}
