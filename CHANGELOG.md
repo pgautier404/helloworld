@@ -1,5 +1,21 @@
 # Changelog
 
+## [0.6.0](https://github.com/pgautier404/helloworld/compare/v0.5.1...v0.6.0) (2023-07-20)
+
+
+### ⚠ BREAKING CHANGES
+
+* CI bump ([#34](https://github.com/pgautier404/helloworld/issues/34))
+
+### Features
+
+* CI bump ([#34](https://github.com/pgautier404/helloworld/issues/34)) ([08ef054](https://github.com/pgautier404/helloworld/commit/08ef054f64923f56d6fbf862f174a56506c1a7c9))
+
+
+### Miscellaneous
+
+* blergh ([#32](https://github.com/pgautier404/helloworld/issues/32)) ([f916ea9](https://github.com/pgautier404/helloworld/commit/f916ea968929b17621cef4381759b436d267791b))
+
 ## [0.5.1](https://github.com/pgautier404/helloworld/compare/v0.5.0...v0.5.1) (2023-07-20)
 
 
