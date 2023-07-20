@@ -1,3 +1,4 @@
 #!/bin/sh
 
-echo "Hi";
+echo "Hi"
+exit 1
