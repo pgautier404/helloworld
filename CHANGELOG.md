@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.5.1](https://github.com/pgautier404/helloworld/compare/v0.5.0...v0.5.1) (2023-07-20)
+
+
+### Bug Fixes
+
+* try getting the tag again ([#29](https://github.com/pgautier404/helloworld/issues/29)) ([8784253](https://github.com/pgautier404/helloworld/commit/8784253e226f260ff311d0aaf59a42d46d590cc3))
+
+
+### Miscellaneous
+
+* whaaaaaa ([#30](https://github.com/pgautier404/helloworld/issues/30)) ([6afac1f](https://github.com/pgautier404/helloworld/commit/6afac1f7b9cc8d995ff898227c6c055a72c91bfc))
+
 ## [0.5.0](https://github.com/pgautier404/helloworld/compare/v0.4.0...v0.5.0) (2023-07-20)
 
 
