@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.7.0](https://github.com/pgautier404/helloworld/compare/v0.6.2...v0.7.0) (2023-07-20)
+
+
+### Features
+
+* use personal github token ([#41](https://github.com/pgautier404/helloworld/issues/41)) ([51bf0ac](https://github.com/pgautier404/helloworld/commit/51bf0aca5b457a9a3f32b04caccb32e88d86d891))
+
 ## [0.6.2](https://github.com/pgautier404/helloworld/compare/v0.6.1...v0.6.2) (2023-07-20)
 
 
