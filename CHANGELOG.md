@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.6.1](https://github.com/pgautier404/helloworld/compare/v0.6.0...v0.6.1) (2023-07-20)
+
+
+### Miscellaneous
+
+* update readme ([#35](https://github.com/pgautier404/helloworld/issues/35)) ([beeb31a](https://github.com/pgautier404/helloworld/commit/beeb31adb4d4f63ffb6237bd7d2250cdf89307c1))
+* update readme again ([#37](https://github.com/pgautier404/helloworld/issues/37)) ([3c76028](https://github.com/pgautier404/helloworld/commit/3c760283ad35018559355641410b818a6de36afd))
+
 ## [0.6.0](https://github.com/pgautier404/helloworld/compare/v0.5.1...v0.6.0) (2023-07-20)
 
 
