@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.8.0](https://github.com/pgautier404/helloworld/compare/v0.7.1...v0.8.0) (2023-08-22)
+
+
+### Features
+
+* new version test ([#46](https://github.com/pgautier404/helloworld/issues/46)) ([608b1ef](https://github.com/pgautier404/helloworld/commit/608b1ef264afa3fa68c1db1b5b1da86762db6a6c))
+
 ## [0.7.1](https://github.com/pgautier404/helloworld/compare/v0.7.0...v0.7.1) (2023-07-20)
 
 
