@@ -33,5 +33,6 @@ jobs:
       - name: Publish
         run: |
           cat version.txt
+          echo "version number is ${{ steps.release.outputs.major }}.${{ steps.release.outputs.minor }}.${{ steps.release.outputs.patch }}"
           echo ${{ steps.release.outputs.tag_name }}
         if: ${{ steps.release.outputs.release_created }}
